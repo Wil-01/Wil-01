@@ -30,8 +30,8 @@
 ### 📫 Comment me contacter :
 
 *   **Email:** [williams.kouton-godonou@epitech.eu](mailto:williams.kouton-godonou@epitech.eu)
-*   **LinkedIn:** [https://www.linkedin.com/in/williams-kouton-godonou-82410b25b/]
-*   **Portfolio:** [https://www.linkedin.com/in/williams-kouton-godonou-82410b25b/](https://williams-dev.vercel.app/)] 
+*   **LinkedIn:** [https://www.linkedin.com/in/williams-kouton-godonou-82410b25b/](https://www.linkedin.com/in/williams-kouton-godonou-82410b25b/)
+*   **Portfolio:** [https://williams-dev.vercel.app/](https://williams-dev.vercel.app/)] 
 
 
 ---
