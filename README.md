@@ -27,41 +27,12 @@
 
 ---
 
-### 🛠️ Ma Stack Technique :
-
-*   **Frontend:** React, TypeScript, Tailwind CSS, HTML5, CSS3
-*   **Backend:** Python (Django Rest Framework), PHP, Node.js
-*   **Bases de données:** PostgreSQL, SQLite
-*   **Outils & DevOps:** Git, GitHub, GitLab, Docker (basique), Jenkins, Jira, Trello
-*   **Testing:** Selenium, Jest
-*   **Autres:** Web Scraping (Beautiful Soup, Scrapy), API REST, Documentation (Swagger)
-
----
-
-### ✨ Expériences Clés :
-
-*   **Développement Full-Stack & Python:** Conception et développement de solutions web/logicielles, automatisation de tâches, web scraping, optimisation de code et résolution de problèmes techniques (Digital MANAGEMENT, JCIA Succes Plus, English for busy people, Toastmasters Int...)
-*   **Analyse de Données:** Extraction et analyse de données via scraping pour campagnes publicitaires (CED Consult).
-*   **Management & Opérations:** Recrutement, gestion d'équipes et gestion commerciale (Helice, K2M Sarl). Mon parcours m'a donné une bonne compréhension des enjeux business.
-
----
-
-### 🎓 Formation & Certifications :
-
-*   **Web@cadémie by Epitech** (Bac+2 Développeur Web - En cours)
-*   **Piscine 42 Paris** (Classé 9ème de ma promotion - 2024)
-*   **Spécialisation IBM Software Developer Full Stack** (Coursera - 2024)
-*   **Spécialisation Python for Everybody** (University of Michigan / Coursera - 2023)
-*   **Certification Python** (OpenClassrooms - 2023)
-*   **Licence TCOM, option Développeur d'Application** (Institut CERCO Bénin - 2024)
-*   **Autodidacte** depuis 2021 (Développement web, Algorithmes, Mobile, IA)
-
----
-
 ### 📫 Comment me contacter :
 
 *   **Email:** [williams.kouton-godonou@epitech.eu](mailto:williams.kouton-godonou@epitech.eu)
-*   **LinkedIn:** [https://www.linkedin.com/in/williams-kouton-godonou-82410b25b/] <!-- IMPORTANT: Ajoutez votre lien LinkedIn ici ! -->
+*   **LinkedIn:** [https://www.linkedin.com/in/williams-kouton-godonou-82410b25b/]
+*   **Portfolio:** [https://www.linkedin.com/in/williams-kouton-godonou-82410b25b/](https://williams-dev.vercel.app/)] 
+
 
 ---
 
