@@ -40,7 +40,7 @@
 
 ### ✨ Expériences Clés :
 
-*   **Développement Full-Stack & Python:** Conception et développement de solutions web/logicielles, automatisation de tâches, web scraping, optimisation de code et résolution de problèmes techniques (Digital MANAGEMENT, JCIA Succes Plus, English for busy people, Toastmasters Int.).
+*   **Développement Full-Stack & Python:** Conception et développement de solutions web/logicielles, automatisation de tâches, web scraping, optimisation de code et résolution de problèmes techniques (Digital MANAGEMENT, JCIA Succes Plus, English for busy people, Toastmasters Int...)
 *   **Analyse de Données:** Extraction et analyse de données via scraping pour campagnes publicitaires (CED Consult).
 *   **Management & Opérations:** Recrutement, gestion d'équipes et gestion commerciale (Helice, K2M Sarl). Mon parcours m'a donné une bonne compréhension des enjeux business.
 
