@@ -1,11 +1,6 @@
 # Hi there, I'm Williams KOUTON GODONOU 👋
 
-<a href="https://github.com/Wil-01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wil-01&show_icons=true&theme=radical&rank_icon=github" alt="Wil-01's GitHub Stats" />
-</a>
-<a href="https://github.com/Wil-01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wil-01&layout=compact&theme=radical" alt="Wil-01's Top Languages" />
-</a>
+
 
 <br/>
 <br/>
