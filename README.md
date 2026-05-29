@@ -11,11 +11,11 @@
 <br/>
 <br/>
 
-🚀 **Développeur Full Stack | Passionné par la création de solutions web et logicielles performantes.**
+🚀 **Développeur Full Stack à Alfred Meeting | Passionné par la création de solutions web et logicielles performantes.**
 
 👨‍💻 Actuellement étudiant à **Web@cadémie by Epitech** (promotion 2024-2026) et fort d'une expérience variée allant du développement à la gestion opérationnelle, je suis constamment en quête de nouveaux défis techniques. J'ai une appétence particulière pour l'optimisation des processus via l'automatisation et le web scraping.
 
-🎯 **Je suis activement à la recherche d'une alternance en tant que Développeur Full Stack ou Développeur Backend/Python pour Septembre 2025 (rythme : 3 semaines en entreprise / 1 semaine en formation).**
+🎯 **Je suis activement à la recherche d'une alternance en tant que Développeur Full Stack ou Développeur Backend/Python pour Septembre 2026 (rythme : 3 semaines en entreprise / 1 semaine en formation).**
 
 ---
 
